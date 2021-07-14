@@ -1,0 +1,8 @@
+  
+z= int(input(""))
+for i in range(z):
+    x = int(input())
+    n=str(x)
+    a=int(n[0])
+    b=int(n[-1])
+    print(a+b)
