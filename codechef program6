@@ -1,0 +1,4 @@
+n=int(input("divdend : "))
+z=int(input("divisor : "))
+x=n%z
+print(x)
